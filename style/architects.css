@@ -18,6 +18,9 @@
 .text-light-gray{
     color:#727272 ;
 }
+.bg-light{
+    background-color: rgba(255, 144, 14, 0.1);
+}
 .btn-primary{
     background-color:#FF900E;
     color: white;
@@ -27,8 +30,9 @@
     border-radius: 8px;
     border: none;
 }
-.bg-light{
-    background-color: rgba(255, 144, 14, 0.1);
+main{
+    max-width: 1440px;
+    margin: 0 auto;
 }
 
 /* header styles */
